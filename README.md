@@ -11,7 +11,7 @@ Estudante de programação há cerca de 2 anos, com foco em **JavaScript e Desen
             title="Entre em contato por e-mail" 
             src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
-    </a
+    </a>
 
 ---
 
@@ -83,4 +83,38 @@ Estudante de programação há cerca de 2 anos, com foco em **JavaScript e Desen
 />
 
 <br/>
+
+### 🚀 Em constante aprendizado
+
+Atualmente focando no aperfeiçoamento das seguintes tecnologias para entregar aplicações mais robustas e tipadas:
+
+<img 
+    align="left" 
+    alt="React"
+    title="React Avançado" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
 <br/>
+<br/>
+
+* **React Avançado**: Hooks customizados, Context API e Performance.
+* **TypeScript**: Tipagem estática para maior segurança no desenvolvimento JS.
